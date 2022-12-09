@@ -1,0 +1,19 @@
+* {
+    background: #26619c;
+  }
+
+body {
+    color: white;
+}
+
+#red {
+    color: red;
+}
+
+.purple-text {
+    color: purple;
+}
+
+span .heading3 {
+    color:darkturquoise;
+}
